@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Atribuição é opcional (CC0). Se quiser citar ou dar crédito, use estes dados."
+type: dataset
+title: "Kit Prédios Brasil Low Poly: prédios 3D low poly de cidade brasileira"
+abstract: >-
+  Kit livre de 45 prédios 3D low poly (glTF/GLB) com cara de cidade brasileira: casas com telha de barro, muro e
+  portão, sobrados, casa de laje, prédios de pastilha, comércio com toldo, torres, galpões de fibrocimento, fábrica,
+  caixa d'água taça, escola, bombeiros, porto, contêineres, tanques e chaminés. Até 1.500 triângulos por modelo,
+  cores chapadas, sem texturas. Cada modelo é gerado por um script Python no Blender. Nasceu do jogo educativo
+  Guardião da Água e complementa o Kit Props Brasil, o Kit Fauna Ameaçada e o Kit Cidade Low Poly.
+authors:
+  - family-names: Rotondo
+    given-names: Kayque
+  - family-names: Roxinol
+    given-names: Cláudia Dias
+license: CC0-1.0
+repository-code: "https://github.com/kayquer/kit-predios-brasil-lowpoly"
+keywords:
+  - low poly
+  - 3D
+  - glTF
+  - Blender
+  - buildings
+  - Brazilian architecture
+  - city builder
+  - game assets
+  - CC0
+  - Brasil
+  - educational games
+  - free 3D models
+  - public domain
+  - GLB
+  - Godot
+  - Unity
+  - three.js
+  - Babylon.js

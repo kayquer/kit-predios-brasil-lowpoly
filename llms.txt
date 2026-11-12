@@ -1,0 +1,39 @@
+# Low Poly Brazil Buildings Kit (Kit Prédios Brasil Low Poly)
+
+> Free, public domain (CC0 1.0) pack of 45 low poly 3D buildings in glTF/GLB that look like a Brazilian town:
+> single-storey houses with clay tile roofs, front walls and iron gates, sobrados, self-built brick houses with a
+> rooftop blue water tank, walk-up apartment blocks with tiled (pastilha) facades, corner bakery with striped
+> awnings, glass office towers, condo tower, neighborhood mall, fiber-cement sheds, sawtooth-roof factory, feed mill
+> silos, port warehouse, goblet-shaped concrete water tower, state school, technical school, fire station, police
+> base, river port, shipping containers, tanks and chimneys. ≤ 1,500 triangles per model; flat colors, no textures.
+> Works in Godot, Unity (glTFast), Unreal Engine 5, three.js, Babylon.js and Blender. Commercial use allowed;
+> attribution optional.
+
+- Repository: https://github.com/kayquer/kit-predios-brasil-lowpoly
+- License: CC0 1.0 (public domain), see LICENSE
+- Authors: Kayque Rotondo and Cláudia Dias Roxinol (see CITATION.cff)
+- Format: binary glTF (.glb), Y up, front facing -Z (right side +X finished for isometric cameras), centered, base on y = 0
+- Scale: a house is about 1.3 units wide; exact width/depth/height of every model in tools/alvos.json
+- Budget: ≤ 1,500 triangles and < 100 KB per model; one PBR material per color (base color only)
+- Source: one Blender 4.5 Python script per model in `src/<group>/<id>.py`; shared helpers and palette in `src/lib.py`
+- File names are in Portuguese; English names below and in tools/nomes_en.json
+- Sibling kits: https://github.com/kayquer/kit-props-brasil-lowpoly (props), https://github.com/kayquer/kit-fauna-ameacada-lowpoly (threatened fauna), https://github.com/kayquer/kit-cidade-lowpoly (water, sanitation and energy buildings)
+
+## Docs
+
+- [README (English)](https://github.com/kayquer/kit-predios-brasil-lowpoly/blob/main/README.md): usage, catalog, FAQ
+- [README (Português)](https://github.com/kayquer/kit-predios-brasil-lowpoly/blob/main/README.pt-BR.md): mesma documentação em português
+- [Model catalog JSON](https://github.com/kayquer/kit-predios-brasil-lowpoly/blob/main/models/catalogo.json): id, group, triangles, KB, Portuguese description
+- [Target sizes](https://github.com/kayquer/kit-predios-brasil-lowpoly/blob/main/tools/alvos.json): width, depth and height of every model
+
+## Models
+
+<!-- catalogo:inicio -->
+- Residential (Residencial): `models/residencial/casa_alpendre.glb` House with a front porch (alpendre), wooden pillars, hammock and blue shutters; `models/residencial/casa_dois_andares.glb` Newer two-storey house with gourmet area, split AC units and sliding gate; `models/residencial/casa_laje.glb` Self-built house: exposed brick, flat slab with rebar, rooftop water tank and clothesline; `models/residencial/casa_popular.glb` Small social-housing house in pastel pink with a meter post and banana tree; `models/residencial/casa_quintal.glb` House with side yard: mango tree, clothesline and doghouse; `models/residencial/casa_sobrado.glb` Two-storey sobrado with iron-railed balcony and covered garage; `models/residencial/casa_terrea.glb` Single-storey house with clay tile hip roof, low front wall, iron gate and blue water tank; `models/residencial/sobrado_comercio.glb` Mixed-use sobrado: corner shop with roll-up steel door below, home above; `models/residencial/sobrados_geminados.glb` Pair of attached townhouses in peach and pastel blue with garage doors
+- Commercial and apartment buildings (Comércio e prédios): `models/comercial/padaria_toldo.glb` Corner bakery with striped awnings, roll-up door and plastic sidewalk tables; `models/comercial/predio_apartamentos.glb` Four-storey walk-up apartment block (BNH/COHAB style) with tiled facade and balconies; `models/comercial/predio_banco.glb` Granite office block with a smoked-glass bank branch on the ground floor; `models/comercial/predio_hotel.glb` Five-storey hotel with cobogó strip, AC units and vertical sign; `models/comercial/shopping.glb` Neighborhood shopping mall with glass atrium and parking lot; `models/comercial/torre_alta.glb` 18-storey residential tower with balconies, pool and rooftop water tank; `models/comercial/torre_escritorios.glb` Blue glass office tower with helipad and plaza
+- Industrial and sheds (Indústria e galpões): `models/industrial/armazem_porto.glb` Blue port warehouse with colored roll-up gates and quay; `models/industrial/caixa_dagua_taca.glb` Concrete goblet-shaped elevated water tower (taça) of interior towns; `models/industrial/centro_pesquisa.glb` Modernist public research institute with brises and greenhouse; `models/industrial/deposito.glb` Building-materials depot with brick pallets, sand and cement bags; `models/industrial/fabrica.glb` Brick factory with sawtooth roof, tall chimney, office block and truck; `models/industrial/galpao_carga.glb` Distribution warehouse with three loading docks; `models/industrial/galpao_comprido.glb` Long fiber-cement shed with ribbon windows and roof vents; `models/industrial/galpao_pequeno.glb` Small curved-roof shed with roll-up door and office; `models/industrial/galpao_tecnologia.glb` Tech-park building with solar panels, stair tower and server annex; `models/industrial/oficina.glb` Car repair shop with open bay, car lift, tires and oil drums; `models/industrial/silo_industria.glb` Feed mill with two metal silos, grain elevator and conveyor
+- Public buildings (Prédios públicos): `models/publico/delegacia.glb` Police base, white with blue band, with patrol car; `models/publico/escola_estadual.glb` L-shaped state school with covered sports court and flag; `models/publico/escola_tecnica.glb` Technical school with exposed brick, sawtooth workshop and bike rack; `models/publico/porto.glb` River port with gantry crane, warehouse, containers and barge; `models/publico/quartel_bombeiros.glb` Fire station with red truck and training tower
+- Street greenery (Verde de calçada): `models/verde/arvore_ipe.glb` Yellow ipê street tree with fallen flowers; `models/verde/arvore_pequena.glb` Small street tree (oiti) in a concrete pit; `models/verde/jardineira.glb` Concrete sidewalk planter with tropical plants and impatiens
+- Shop furniture (Mobiliário de comércio): `models/mobiliario/guarda_sol_a.glb` Yellow bar parasol with white plastic table and chairs; `models/mobiliario/guarda_sol_b.glb` Red bar parasol with red plastic table and chairs; `models/mobiliario/toldo.glb` Green and white striped canvas awning (wall-mounted)
+- Cargo and industrial details (Carga e indústria): `models/carga/chamine_grande.glb` Thick brick chimney of an old kiln or sugar mill; `models/carga/chamine_media.glb` Thin metal chimney with red and white bands; `models/carga/conteiner_a.glb` Orange 20-foot shipping container; `models/carga/conteiner_b.glb` Blue 20-foot shipping container; `models/carga/conteiner_c.glb` Green 20-foot shipping container; `models/carga/tanque.glb` Horizontal fuel/ethanol tank on concrete saddles; `models/carga/tanque_grande.glb` Two vertical ethanol tanks with catwalk and spiral stair
+<!-- catalogo:fim -->

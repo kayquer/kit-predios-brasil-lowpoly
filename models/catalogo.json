@@ -1,0 +1,317 @@
+{
+ "carga/chamine_grande": {
+  "categoria": "carga",
+  "id": "chamine_grande",
+  "tris": 228,
+  "kb": 13.9,
+  "descricao": "Chaminé grossa de tijolo de olaria ou usina antiga: base quadrada com boca do forno e cornija, fuste oitavado que afina para cima, anéis de tijolo mais escuro e coroa com fuligem."
+ },
+ "carga/chamine_media": {
+  "categoria": "carga",
+  "id": "chamine_media",
+  "tris": 180,
+  "kb": 11.9,
+  "descricao": "Chaminé metálica fina de fábrica, branca com faixas vermelhas de sinalização no alto, flange chumbada numa base de concreto e boca escura."
+ },
+ "carga/conteiner_a": {
+  "categoria": "carga",
+  "id": "conteiner_a",
+  "tris": 120,
+  "kb": 8.9,
+  "descricao": "Contêiner marítimo laranja de vinte pés com nervuras nas laterais, trilhos de base e topo e porta com tranca no fundo (frente para -Y)."
+ },
+ "carga/conteiner_b": {
+  "categoria": "carga",
+  "id": "conteiner_b",
+  "tris": 120,
+  "kb": 8.9,
+  "descricao": "Contêiner marítimo azul de vinte pés com nervuras nas laterais, trilhos de base e topo e porta com tranca no fundo (frente para -Y)."
+ },
+ "carga/conteiner_c": {
+  "categoria": "carga",
+  "id": "conteiner_c",
+  "tris": 120,
+  "kb": 8.9,
+  "descricao": "Contêiner marítimo verde de vinte pés com nervuras nas laterais, trilhos de base e topo e porta com tranca no fundo (frente para -Y)."
+ },
+ "carga/tanque": {
+  "categoria": "carga",
+  "id": "tanque",
+  "tris": 288,
+  "kb": 18.0,
+  "descricao": "Tanque deitado de combustível/álcool, branco com cintas escuras, sobre dois berços de concreto, com boca de inspeção no topo, registro embaixo e escadinha amarela na frente."
+ },
+ "carga/tanque_grande": {
+  "categoria": "carga",
+  "id": "tanque_grande",
+  "tris": 536,
+  "kb": 32.2,
+  "descricao": "Dois tanques cilíndricos verticais brancos de usina de etanol, com faixa verde, teto cônico, passarela entre os topos, escada em espiral com corrimão amarelo e bacia de contenção de concreto."
+ },
+ "comercial/padaria_toldo": {
+  "categoria": "comercial",
+  "id": "padaria_toldo",
+  "tris": 1024,
+  "kb": 65.1,
+  "descricao": "Padaria de esquina de dois andares: térreo amarelo com balcão aberto e vitrine, porta de aço de enrolar meio aberta, toldo listrado vermelho e branco nas duas fachadas, mesinhas de plástico na calçada e moradia verde-água em cima com janelas gradeadas, telhado de barro e caixa d'água azul."
+ },
+ "comercial/predio_apartamentos": {
+  "categoria": "comercial",
+  "id": "predio_apartamentos",
+  "tris": 1176,
+  "kb": 71.2,
+  "descricao": "Prédio residencial de quatro andares sem elevador, estilo COHAB/BNH: fachada de pastilha azul com faixas brancas nas lajes, sacadas com grade de ferro, torre de escada com cobogó, caixa d'água de concreto no topo e portaria com grade no térreo."
+ },
+ "comercial/predio_banco": {
+  "categoria": "comercial",
+  "id": "predio_banco",
+  "tris": 964,
+  "kb": 58.5,
+  "descricao": "Edifício comercial de quatro andares revestido de granito rosa: agência bancária no térreo com vidro fumê, porta giratória e marquise com faixa colorida (sem marca), andares de escritório com janelas em fita, ar-condicionado e casa de máquinas no topo."
+ },
+ "comercial/predio_hotel": {
+  "categoria": "comercial",
+  "id": "predio_hotel",
+  "tris": 1328,
+  "kb": 81.4,
+  "descricao": "Hotel de centro de cidade com cinco andares: fachada salmão com janelas de moldura branca, faixa de cobogó branco subindo pela fachada, aparelhos de ar-condicionado nas janelas, marquise na entrada de vidro e letreiro vertical colorido na esquina (sem texto)."
+ },
+ "comercial/shopping": {
+  "categoria": "comercial",
+  "id": "shopping",
+  "tris": 992,
+  "kb": 66.4,
+  "descricao": "Shopping de bairro: caixa grande creme com átrio de vidro na entrada, marquise, vitrines no térreo, faixas coloridas das lojas (sem texto), totem colorido e estacionamento com carros na frente e na lateral."
+ },
+ "comercial/torre_alta": {
+  "categoria": "comercial",
+  "id": "torre_alta",
+  "tris": 1224,
+  "kb": 79.0,
+  "descricao": "Prédio residencial alto de condomínio com dezoito andares: sacadas em todos os andares contornando a frente e a lateral (grade de ferro e vidro alternados), pilares terracota sobre fachada bege, térreo em pilotis com guarita, muro com grade, piscina pequena e palmeiras, caixa d'água e casa de máquinas no topo."
+ },
+ "comercial/torre_escritorios": {
+  "categoria": "comercial",
+  "id": "torre_escritorios",
+  "tris": 984,
+  "kb": 65.2,
+  "descricao": "Torre de escritórios de vidro azul de avenida de capital: térreo de vidro sob marquise branca, praça de granito com jardineiras e palmeiras, faixas claras marcando cada andar, prumada de concreto na lateral e coroamento com heliponto e antenas."
+ },
+ "industrial/armazem_porto": {
+  "categoria": "industrial",
+  "id": "armazem_porto",
+  "tris": 1316,
+  "kb": 75.4,
+  "descricao": "Armazém de porto: galpão longo de chapas metálicas azuis com telha trapezoidal e lanternim na cumeeira, cinco portões identificados por cor (sem números) e, na frente, o cais de concreto com borda amarela, cabeços de amarração, pneus de defensa e dois contêineres empilhados."
+ },
+ "industrial/caixa_dagua_taca": {
+  "categoria": "industrial",
+  "id": "caixa_dagua_taca",
+  "tris": 1300,
+  "kb": 71.6,
+  "descricao": "Caixa d'água elevada de concreto em forma de taça, das cidades do interior paulista e mineiro: fuste cilíndrico, taça larga pintada de branco com faixa azul, escada de marinheiro com gaiola subindo o fuste, guarda-corpo no topo, casinha de bombas e alambrado na base."
+ },
+ "industrial/centro_pesquisa": {
+  "categoria": "industrial",
+  "id": "centro_pesquisa",
+  "tris": 1344,
+  "kb": 85.4,
+  "descricao": "Instituto público de pesquisa no estilo modernista brasileiro (Embrapa, Fiocruz): bloco branco de dois andares sobre pilotis com brises verticais na fachada, painel de azulejos azul e branco na empena, estufa de vidro com canteiros ao lado e caixa d'água de concreto sobre quatro pilares."
+ },
+ "industrial/deposito": {
+  "categoria": "industrial",
+  "id": "deposito",
+  "tris": 910,
+  "kb": 61.8,
+  "descricao": "Depósito de material de construção: galpão aberto na frente com platibanda vermelha e faixa amarela (sem letreiro), cobertura de telha ondulada de fibrocimento caindo para o fundo, sacos de cimento lá dentro, pallets de tijolo baiano no pátio e baias de areia e brita na lateral."
+ },
+ "industrial/fabrica": {
+  "categoria": "industrial",
+  "id": "fabrica",
+  "tris": 1392,
+  "kb": 83.0,
+  "descricao": "Fábrica de tijolinho aparente com telhado shed (dente de serra) de fibrocimento e vidraças viradas para a frente, chaminé alta de tijolo com anéis, bloco administrativo de dois andares pintado de creme na frente e portão de carga com um caminhão baú encostado."
+ },
+ "industrial/galpao_carga": {
+  "categoria": "industrial",
+  "id": "galpao_carga",
+  "tris": 1096,
+  "kb": 63.3,
+  "descricao": "Galpão de distribuição (centro de distribuição): caixa de chapa metálica cinza-clara com faixa laranja, platibanda na frente com o escritório envidraçado, telha metálica trapezoidal de duas águas e, na lateral, três docas de carga com portas altas, vedação preta, marquise e plataforma de concreto com faixa amarela de segurança."
+ },
+ "industrial/galpao_comprido": {
+  "categoria": "industrial",
+  "id": "galpao_comprido",
+  "tris": 920,
+  "kb": 54.5,
+  "descricao": "Galpão comprido de confecção ou metalúrgica: telhado de duas águas de telha ondulada de fibrocimento, paredes brancas com barra cinza e faixa verde, janelas altas em fita, portão de enrolar na lateral e exaustores eólicos (as bolinhas de metal) na cumeeira."
+ },
+ "industrial/galpao_pequeno": {
+  "categoria": "industrial",
+  "id": "galpao_pequeno",
+  "tris": 804,
+  "kb": 49.2,
+  "descricao": "Galpão pequeno de telhado em arco (telha metálica curva com emendas), paredes creme, portão de aço de enrolar na frente e escritório colado na fachada, pintado de amarelo com faixa laranja e platibanda."
+ },
+ "industrial/galpao_tecnologia": {
+  "categoria": "industrial",
+  "id": "galpao_tecnologia",
+  "tris": 1272,
+  "kb": 76.5,
+  "descricao": "Prédio de polo tecnológico: bloco de três andares de concreto branco com fitas de vidro, torre da escada em verde-água, entrada envidraçada com marquise, painéis solares e torre de antena com parabólicas na cobertura e, atrás, um anexo baixo de servidores com condensadoras de ar-condicionado no teto."
+ },
+ "industrial/oficina": {
+  "categoria": "industrial",
+  "id": "oficina",
+  "tris": 1344,
+  "kb": 76.8,
+  "descricao": "Oficina mecânica de bairro: fachada com platibanda pintada de azul e faixas branca e amarela (sem letreiro), portão largo aberto com o elevador de carro lá dentro, galpão de reboco cru com telha ondulada cinza, caixa d'água azul, pneus empilhados e um carro esperando no pátio."
+ },
+ "industrial/silo_industria": {
+  "categoria": "industrial",
+  "id": "silo_industria",
+  "tris": 1236,
+  "kb": 69.6,
+  "descricao": "Indústria de alimentos (fábrica de ração ou beneficiadora de grãos): dois silos altos de chapa galvanizada com anéis e teto cônico, elevador de grãos com tubos de descarga, esteira inclinada coberta saindo do galpão de recebimento (paredes brancas com faixa verde e telha de fibrocimento) e tubulação amarela ligando tudo."
+ },
+ "mobiliario/guarda_sol_a": {
+  "categoria": "mobiliario",
+  "id": "guarda_sol_a",
+  "tris": 174,
+  "kb": 11.7,
+  "descricao": "Guarda-sol de bar amarelo (sem marca) com mesa quadrada e duas cadeiras de plástico brancas, de calçada de boteco."
+ },
+ "mobiliario/guarda_sol_b": {
+  "categoria": "mobiliario",
+  "id": "guarda_sol_b",
+  "tris": 190,
+  "kb": 12.4,
+  "descricao": "Guarda-sol de bar de esquina listrado de vermelho e branco, com mesa redonda e duas cadeiras de plástico vermelhas (sem marca)."
+ },
+ "mobiliario/toldo": {
+  "categoria": "mobiliario",
+  "id": "toldo",
+  "tris": 78,
+  "kb": 5.7,
+  "descricao": "Toldo de lona listrado verde e branco de loja, inclinado e com saia na frente, para prender na fachada (a peça encosta na parede pelo lado +Y)."
+ },
+ "publico/delegacia": {
+  "categoria": "publico",
+  "id": "delegacia",
+  "tris": 808,
+  "kb": 57.0,
+  "descricao": "Delegacia/base da polícia: prédio branco de térreo e meio com faixa azul, janelas com grade, marquise na entrada, estacionamento com a viatura branca e azul e mastro com a bandeira verde-amarela."
+ },
+ "publico/escola_estadual": {
+  "categoria": "publico",
+  "id": "escola_estadual",
+  "tris": 1176,
+  "kb": 78.6,
+  "descricao": "Escola estadual térrea em L com barrado verde, janelas basculantes, corredor coberto, muro com portão, quadra poliesportiva com cobertura em arco e mastro com a bandeira verde-amarela."
+ },
+ "publico/escola_tecnica": {
+  "categoria": "publico",
+  "id": "escola_tecnica",
+  "tris": 1128,
+  "kb": 73.0,
+  "descricao": "Escola técnica no estilo ETEC/Instituto Federal: prédio de dois andares de tijolo aparente com faixas azuis e caixa d'água no terraço, oficina anexa com telhado shed envidraçado e bicicletário na frente."
+ },
+ "publico/porto": {
+  "categoria": "publico",
+  "id": "porto",
+  "tris": 1460,
+  "kb": 91.8,
+  "descricao": "Porto de rio: cais de concreto com defensas de pneu e cabeços, armazém azul, guindaste de pórtico amarelo içando um contêiner, pilhas de contêineres coloridos e barcaça com empurrador encostada (a água fica na frente)."
+ },
+ "publico/quartel_bombeiros": {
+  "categoria": "publico",
+  "id": "quartel_bombeiros",
+  "tris": 1096,
+  "kb": 71.6,
+  "descricao": "Quartel do Corpo de Bombeiros vermelho e branco com dois portões largos (um aberto, com o caminhão vermelho saindo), pátio de manobra com faixas amarelas, hidrante e torre de treino alta e fina ao lado."
+ },
+ "residencial/casa_alpendre": {
+  "categoria": "residencial",
+  "id": "casa_alpendre",
+  "tris": 984,
+  "kb": 64.4,
+  "descricao": "Casa branca com barra azul e alpendre na frente: varanda de piso vermelho coberta pelo telhado de telha de barro que desce sobre pilares de madeira, rede colorida, cadeira de balanço, janelas de madeira azuis e murinho baixo."
+ },
+ "residencial/casa_dois_andares": {
+  "categoria": "residencial",
+  "id": "casa_dois_andares",
+  "tris": 932,
+  "kb": 61.7,
+  "descricao": "Casa nova de dois andares em creme e cinza grafite, com telhado de quatro águas de telha de barro, porta de vidro grande, ar-condicionado split na fachada, varanda gourmet com churrasqueira de tijolo e muro alto com portão de correr."
+ },
+ "residencial/casa_laje": {
+  "categoria": "residencial",
+  "id": "casa_laje",
+  "tris": 1100,
+  "kb": 74.8,
+  "descricao": "Casa de autoconstrução com laje: metade no reboco cru e metade em tijolo baiano aparente com pilares e vigas de concreto, laje plana com ferros de espera, caixa d'água azul, puxadinho em tijolo, varal e escada externa de concreto."
+ },
+ "residencial/casa_popular": {
+  "categoria": "residencial",
+  "id": "casa_popular",
+  "tris": 704,
+  "kb": 50.3,
+  "descricao": "Casa popular de conjunto habitacional pintada de rosa pastel, pequena e simples, com telhado de duas águas de telha de barro, porta e duas janelas, murinho baixo na frente, padrão de luz e um pé de bananeira no quintal."
+ },
+ "residencial/casa_quintal": {
+  "categoria": "residencial",
+  "id": "casa_quintal",
+  "tris": 1052,
+  "kb": 74.7,
+  "descricao": "Casa azul pastel com quintal ao lado: telhado de duas águas de telha de barro com o oitão para a rua, janelas com grade, mangueira carregada de mangas, varal com roupas, casinha de cachorro e muro com portão de ferro."
+ },
+ "residencial/casa_sobrado": {
+  "categoria": "residencial",
+  "id": "casa_sobrado",
+  "tris": 1284,
+  "kb": 80.0,
+  "descricao": "Sobrado verde-água de dois andares com oitão virado para a rua, telhado de duas águas de telha de barro, sacada com grade no andar de cima, garagem coberta ao lado e mureta com gradil e portão de ferro na frente."
+ },
+ "residencial/casa_terrea": {
+  "categoria": "residencial",
+  "id": "casa_terrea",
+  "tris": 1048,
+  "kb": 67.5,
+  "descricao": "Casa térrea de bairro pintada de amarelo pastel, com telhado de quatro águas de telha de barro, caixa d'água azul aparecendo atrás, janelas com grade, barra colorida no rodapé e muro baixo com portão de ferro na frente."
+ },
+ "residencial/sobrado_comercio": {
+  "categoria": "residencial",
+  "id": "sobrado_comercio",
+  "tris": 1252,
+  "kb": 79.9,
+  "descricao": "Sobrado misto lilás pastel: comércio no térreo com porta de aço de enrolar meio aberta, toldo listrado e faixa de letreiro colorida sem texto; moradia em cima com janelas, sacadinha de grade, platibanda e caixa d'água azul."
+ },
+ "residencial/sobrados_geminados": {
+  "categoria": "residencial",
+  "id": "sobrados_geminados",
+  "tris": 1184,
+  "kb": 79.3,
+  "descricao": "Dois sobrados geminados lado a lado, um pêssego e outro azul pastel, cada um com portão de garagem de chapa, porta, marquise e janela com grade em cima, telhado contínuo de telha de barro dividido por uma parede corta-fogo."
+ },
+ "verde/arvore_ipe": {
+  "categoria": "verde",
+  "id": "arvore_ipe",
+  "tris": 120,
+  "kb": 10.9,
+  "descricao": "Ipê-amarelo de calçada florido: tronco fino que se abre em dois galhos, copa amarela facetada e um tapete de flores caídas no canteiro."
+ },
+ "verde/arvore_pequena": {
+  "categoria": "verde",
+  "id": "arvore_pequena",
+  "tris": 116,
+  "kb": 11.1,
+  "descricao": "Árvore pequena de calçada (oiti): tronco fino, copa verde redonda e facetada e canteiro quadrado de concreto com terra no pé."
+ },
+ "verde/jardineira": {
+  "categoria": "verde",
+  "id": "jardineira",
+  "tris": 248,
+  "kb": 20.4,
+  "descricao": "Jardineira de calçada de concreto com terra, folhas grandes de comigo-ninguém-pode no meio e touceiras floridas de maria-sem-vergonha rosa e vermelha nas pontas."
+ }
+}
