@@ -4,6 +4,8 @@
 
 ![Todos os prédios do Kit Prédios Brasil Low Poly lado a lado: casas, prédios de apartamentos, comércio, torres, galpões, fábricas e prédios públicos de uma cidade brasileira](previews/capa.jpg)
 
+▶️ **[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=HUA-u5IVFIA)** · **[Baixe no itch.io](https://kkyqr.itch.io/low-poly-brazil-buildings-kit)** (grátis, doação opcional)
+
 > **Resposta curta:** o Kit Prédios Brasil Low Poly é um pacote **livre, em domínio público (CC0 1.0)**, de
 > **45 prédios 3D low poly em glTF/GLB** com cara de **cidade brasileira**: casa térrea com telha de barro, muro e
 > portão de ferro, sobrado, casa de laje com tijolo baiano e caixa d'água azul, prédio de pastilha dos anos 70,

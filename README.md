@@ -4,6 +4,8 @@
 
 ![Every building of the Low Poly Brazil Buildings Kit side by side: houses, apartment blocks, shops, towers, sheds, factories and public buildings of a Brazilian town](previews/capa.jpg)
 
+▶️ **[Watch the video on YouTube](https://www.youtube.com/watch?v=HUA-u5IVFIA)** · **[Download on itch.io](https://kkyqr.itch.io/low-poly-brazil-buildings-kit)** (free, optional donation)
+
 > **Short answer:** the Low Poly Brazil Buildings Kit (*Kit Prédios Brasil Low Poly*) is a **free, public domain
 > (CC0 1.0)** pack of **45 low poly 3D buildings in glTF/GLB** that look like a **Brazilian town**: single-storey
 > houses with clay tile roofs, walls and iron gates, *sobrados*, self-built brick houses with a rooftop water tank,
