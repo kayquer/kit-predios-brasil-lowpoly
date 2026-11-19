@@ -4,6 +4,8 @@
 
 ![Every building of the Low Poly Brazil Buildings Kit side by side: houses, apartment blocks, shops, towers, sheds, factories and public buildings of a Brazilian town](previews/capa.jpg)
 
+https://github.com/user-attachments/assets/f1f6d303-0ec5-45eb-af1f-7ccd48e04417
+
 ▶️ **[Watch the video on YouTube](https://www.youtube.com/watch?v=HUA-u5IVFIA)** · **[Download on itch.io](https://kkyqr.itch.io/low-poly-brazil-buildings-kit)** (free, optional donation)
 
 > **Short answer:** the Low Poly Brazil Buildings Kit (*Kit Prédios Brasil Low Poly*) is a **free, public domain

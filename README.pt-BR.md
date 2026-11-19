@@ -4,6 +4,8 @@
 
 ![Todos os prédios do Kit Prédios Brasil Low Poly lado a lado: casas, prédios de apartamentos, comércio, torres, galpões, fábricas e prédios públicos de uma cidade brasileira](previews/capa.jpg)
 
+https://github.com/user-attachments/assets/f1f6d303-0ec5-45eb-af1f-7ccd48e04417
+
 ▶️ **[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=HUA-u5IVFIA)** · **[Baixe no itch.io](https://kkyqr.itch.io/low-poly-brazil-buildings-kit)** (grátis, doação opcional)
 
 > **Resposta curta:** o Kit Prédios Brasil Low Poly é um pacote **livre, em domínio público (CC0 1.0)**, de
